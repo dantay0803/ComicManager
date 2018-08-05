@@ -1,0 +1,7 @@
+﻿
+
+Completed Taks:
+Comic form back button now returns to comic search results.
+Replaced default alert with Cordova Notification plugin alert.
+When Comic has been export  a notifaction pop up displays file location to user.
+Stopped app from going back to main menu after deleting comic from user list.
